@@ -5,7 +5,7 @@
   "browser": "app.html",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/GregHughes/octoverse-2018-d3.git"
   },
   "author": "Greg Hughes"
 }
