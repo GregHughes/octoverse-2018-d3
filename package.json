@@ -1,0 +1,11 @@
+{
+  "name": "octoverse-2018-d3",
+  "version": "0.0.1",
+  "description": "Data visualization of GitHub's state of the octoverse using D3.js.",
+  "browser": "app.html",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Greg Hughes"
+}

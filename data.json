@@ -1,0 +1,51 @@
+[{
+		"organization": "Facebook",
+		"value": 1700,
+		"color": "red"
+	},
+	{
+		"organization": "Google",
+		"value": 5500,
+		"color": "green"
+	},
+	{
+		"organization": "Intel",
+		"value": 2200,
+		"color": "blue"
+	},
+	{
+		"organization": "Microsoft",
+		"value": 7700,
+		"color": "purple"
+	},
+	{
+		"organization": "MIT",
+		"value": 1700,
+		"color": "orange"
+	},
+	{
+		"organization": "Red Hat",
+		"value": 3300,
+		"color": "black"
+	},
+	{
+		"organization": "Stanford",
+		"value": 1600,
+		"color": "magenta"
+	},
+	{
+		"organization": "UC Berkeley",
+		"value": 2700,
+		"color": "indigo"
+	},
+	{
+		"organization": "Univ. of Michigan",
+		"value": 1600,
+		"color": "olive"
+	},
+	{
+		"organization": "Univ. of Washington",
+		"value": 1800,
+		"color": "brown"
+	}
+]
