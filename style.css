@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: #454444;
     color: white;
 }
 
@@ -21,16 +21,13 @@ main {
 .title {
     font-size: 26px;
     font-weight: 600;
-    color: white;
 }
 
 .label {
     font-size: 22px;
     font-weight: 400;
-    color: white;
 }
 
 .source {
     font-size: 14px;
-    color: white;
 }
